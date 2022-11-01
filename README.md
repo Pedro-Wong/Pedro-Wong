@@ -2,7 +2,7 @@
 
  
 
-Here are some ideas to get you started:
+ 
 
 
 - 🌱 Graduando em administração de empresas e estudando programação;
