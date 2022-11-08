@@ -6,8 +6,8 @@
 
 
 - 🌱 Graduando em administração de empresas;
-- 💻 Estudando programação
-- 🥊 Praticante de kickboxing
+- 💻 Estudando programação;
+- 🥊 Praticante de kickboxing;
 
 ##
 
