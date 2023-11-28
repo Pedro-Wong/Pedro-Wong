@@ -5,7 +5,7 @@
  
 
 
-- 🌱 Graduando em administração de empresas;
+- 🌱 Ensino superior em administração de empresas;
 - 💻 Estudando programação;
 - 🥊 Praticante de kickboxing;
 
