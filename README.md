@@ -6,7 +6,7 @@
 
 
 - 🌱 Ensino superior em administração de empresas;
-- 💻 Estudando programação;
+- 💻 Estudante de programação;
 
 
 ##
