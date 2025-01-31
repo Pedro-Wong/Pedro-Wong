@@ -7,8 +7,8 @@
  
 
 
-- 🌱 Ensino superior em administração de empresas;
-- 💻 Estudante de programação;
+- 🌱 Higher education in business;
+- 💻 Software developer;
 
 
 ##
