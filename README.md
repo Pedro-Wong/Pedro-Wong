@@ -7,7 +7,6 @@
  
 
 
-- 🌱 Higher education in business;
 - 💻 Software developer;
 
 
